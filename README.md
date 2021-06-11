@@ -19,6 +19,13 @@ A fitness app that you can add your workouts to and update current workouts.
 
 *[Questions](#questions)
 
+## Images
+![Workout Tracker Main Page](./images/WorkoutTrackerMainPage.png)
+
+![Workout Dashboard](./images/WorkoutDashboard.png)
+
+![Add Workout](./images/AddWorkout.png)
+
 ## Installation
 
 To install necessary dependencies, run the following command:
